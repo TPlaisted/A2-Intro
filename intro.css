@@ -1,0 +1,43 @@
+body {
+	background-color: teal;
+}
+
+#banner {
+
+	background: linear-gradient(green, blue, red);
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 5px 5px 5px blue;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+#topPicture {
+	border-style: groove;
+	border-color: red;
+	border-width: 5px;
+	border-radius: 5px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #0000FF;
+}
+
+#slideshow {
+	border-style: groove;
+	border-color: red;
+	border-width: 5px;
+	border-radius: 5px;
+	padding: 20px;
+	box-shadow: 5px 5px 5px #2958FF;
+}
